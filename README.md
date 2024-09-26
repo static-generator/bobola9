@@ -1,5 +1,5 @@
 # Student of Bobola
-## Name: *Ricardo B. Bulanon II*
+## Name: **Ricardo B. Bulanon II**
 ## Nickname: *King*
 ### ClassNumber: #9
 > Lives In: Villa Corazon, Naga City
@@ -9,9 +9,14 @@
 
 # Favorite UFC Fight (Robbie Lawler VS Rory MacDonald)
 ![](https://media.lasvegassun.com/media/img/photos/2015/07/10/20150710_Sun_UFC189_WeighIns_LE7_t1200.jpg?a58a258a4dac404905303588401680fdf3ee23e4)
-# Favorite Movie - Titanic
+# Favorite Movie's:
+# TITANIC
 ![](https://cdn.britannica.com/37/194837-138-2D4A6AE1/overview-Titanic.jpg?w=800&h=450&c=crop)
+# REAL STEEL
+![](https://github.com/user-attachments/assets/eb3445d6-a446-4ff2-9d9c-e14bd939cc6e)
+
 # Favorite Sport
 ![](https://www.rockstaracademy.com/lib/images/news/basketball.jpeg)
-# HAPPY SONG OH YEAHHH 
+# HAPPY SONG
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/60nZcImufyMA1MKQY3dcCH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+# 
